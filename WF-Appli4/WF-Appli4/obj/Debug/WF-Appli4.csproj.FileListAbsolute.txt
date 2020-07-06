@@ -1,0 +1,10 @@
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\bin\Debug\WF-Appli4.exe.config
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\bin\Debug\WF-Appli4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\bin\Debug\WF-Appli4.pdb
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF-Appli4.csprojAssemblyReference.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF_Appli4.Form1.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF_Appli4.Properties.Resources.resources
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF-Appli4.csproj.GenerateResource.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF-Appli4.csproj.CoreCompileInputs.cache
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF-Appli4.exe
+C:\Users\banon\OneDrive\Documents\IS2\POO\Projet\WF-Appli4\WF-Appli4\obj\Debug\WF-Appli4.pdb
